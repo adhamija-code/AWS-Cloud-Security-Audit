@@ -1,4 +1,4 @@
-🛡️ Network Packet Sniffer & Intrusion Detector (Windows + Jupyter, PyShark)
+##🛡️ Network Packet Sniffer & Intrusion Detector (Windows + Jupyter, PyShark)
 This project is a lightweight **Intrusion Detection System (IDS)** built in **Python** using **PyShark** and **TShark**, designed specifically to work inside **Jupyter Notebooks on Windows**.
 
 It captures live network traffic and detects:
