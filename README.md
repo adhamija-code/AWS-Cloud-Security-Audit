@@ -30,16 +30,16 @@ It captures live network traffic and detects:
 ⚙️ How It Works
 1. List available interfaces
 
-list_interfaces()
+**list_interfaces()**
 
 This shows interface UUIDs like:
 
-[0] \Device\NPF_{UUID1}
-[1] \Device\NPF_{UUID2}
+**[0] \Device\NPF_{UUID1}
+[1] \Device\NPF_{UUID2}**
 
 2. Run the sniffer
 
-run_pyshark_sniffer(r"\Device\NPF_{YOUR_INTERFACE_UUID}", packet_count=100)
+**run_pyshark_sniffer(r"\Device\NPF_{YOUR_INTERFACE_UUID}", packet_count=100)**
 Replace YOUR_INTERFACE_UUID with your actual interface (usually Wi-Fi or Ethernet).
 
 ## 📁 Log Output Example
