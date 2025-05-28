@@ -44,5 +44,6 @@ Replace YOUR_INTERFACE_UUID with your actual interface (usually Wi-Fi or Etherne
 
 ## 📁 Log Output Example
 
-[2025-05-28 18:02:15] ALERT: Port scan detected from 192.168.1.25 on multiple ports. \n
+[2025-05-28 18:02:15] ALERT: Port scan detected from 192.168.1.25 on multiple ports.
+
 Saved to pyshark_ids_jupyter_log.txt.
