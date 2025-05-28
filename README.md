@@ -50,7 +50,7 @@ Install Python dependencies:
 
 **pip install boto3 pandas**
 
-3. Launch the Jupyter Notebook
+### 2. Launch the Jupyter Notebook
 
 **Optional: Use creation.ipynb to create s3 buckets and security groups.
 Open main.ipynb and run all cells.**
